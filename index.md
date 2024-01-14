@@ -2,3 +2,5 @@
 ### Hello world
 
 This is the first markdown file that I made
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
