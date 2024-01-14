@@ -9,3 +9,8 @@ This is the first markdown file that I made
 def square(x):
   return x**2
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
